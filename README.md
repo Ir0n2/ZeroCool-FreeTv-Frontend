@@ -18,6 +18,6 @@ Copy and paste your show like it is below to add it to the list.
 
 < li >< a onclick="changeSrc('https://vidsrc.xyz/embed/tt2861424/');" > Rick And Morty < /a > < /li >
 
-The above peice of html code is for rick and morty. Just chance the vidsrc url to the url for your show, change the name, and you should be good to go!
+I had to throw spaces in the tags in order to show the example, be sure to remove those. The above peice of html code is for rick and morty. Just chance the vidsrc url to the url for your show, change the name, and you should be good to go!
 
 Ya know... it only just occured to me that this could be ever so slightly illegal. fuck da police!
