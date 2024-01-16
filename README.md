@@ -16,7 +16,7 @@ Once you have the src, remove the 1-1, the episode and season part.
 Next!
 Copy and paste your show like it is below to add it to the list.
 
-<li><a onclick="changeSrc('https://vidsrc.xyz/embed/tt2861424/');">Rick And Morty</a></li>
+"<li><a onclick="changeSrc('https://vidsrc.xyz/embed/tt2861424/');">Rick And Morty</a></li>"
 
 The above peice of html code is for rick and morty. Just chance the vidsrc url to the url for your show, change the name, and you should be good to go!
 
